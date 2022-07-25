@@ -8,7 +8,7 @@ App = {
       var petsRow = $('#petsRow');
       var petTemplate = $('#petTemplate');
 
-      for (i = 0; i < data.length; i ++) {
+      for (i = 0; i < 12; i ++) {
         petTemplate.find('.panel-title').text(data[i].name);
         petTemplate.find('img').attr('src', data[i].picture);
         petTemplate.find('.pet-breed').text(data[i].breed);

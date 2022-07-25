@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "name": "Frieda",
+    "name": "Paçoca",
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
     "breed": "Scottish Terrier",
@@ -9,7 +9,7 @@
   },
   {
     "id": 1,
-    "name": "Gina",
+    "name": "Banana",
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
     "breed": "Scottish Terrier",
@@ -17,7 +17,7 @@
   },
   {
     "id": 2,
-    "name": "Collins",
+    "name": "Canela",
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "name": "Melissa",
+    "name": "Melinda",
     "picture": "images/boxer.jpeg",
     "age": 2,
     "breed": "Boxer",
@@ -33,7 +33,7 @@
   },
   {
     "id": 4,
-    "name": "Jeanine",
+    "name": "Malu",
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "name": "Elvia",
+    "name": "Tessa",
     "picture": "images/french-bulldog.jpeg",
     "age": 3,
     "breed": "French Bulldog",
@@ -49,7 +49,7 @@
   },
   {
     "id": 6,
-    "name": "Latisha",
+    "name": "Pudim",
     "picture": "images/golden-retriever.jpeg",
     "age": 3,
     "breed": "Golden Retriever",
@@ -57,7 +57,7 @@
   },
   {
     "id": 7,
-    "name": "Coleman",
+    "name": "Caramelo",
     "picture": "images/golden-retriever.jpeg",
     "age": 3,
     "breed": "Golden Retriever",
@@ -65,7 +65,7 @@
   },
   {
     "id": 8,
-    "name": "Nichole",
+    "name": "Lilica",
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "name": "Fran",
+    "name": "Jojo",
     "picture": "images/boxer.jpeg",
     "age": 3,
     "breed": "Boxer",
@@ -81,7 +81,7 @@
   },
   {
     "id": 10,
-    "name": "Leonor",
+    "name": "Paçoquinha",
     "picture": "images/boxer.jpeg",
     "age": 2,
     "breed": "Boxer",
@@ -97,34 +97,10 @@
   },
   {
     "id": 12,
-    "name": "Stevenson",
+    "name": "Gigi",
     "picture": "images/french-bulldog.jpeg",
     "age": 3,
     "breed": "French Bulldog",
     "location": "Kingstowne, Nevada"
-  },
-  {
-    "id": 13,
-    "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 4,
-    "breed": "Golden Retriever",
-    "location": "Sultana, Massachusetts"
-  },
-  {
-    "id": 14,
-    "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Broadlands, Oregon"
-  },
-  {
-    "id": 15,
-    "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Dawn, Wisconsin"
   }
 ]
